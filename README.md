@@ -39,7 +39,7 @@
 
 **Accuracy**
 
-Classification Accuracy = $\frac{Corrrect Predictions}{Total Predictions}$ \* 100
+Classification Accuracy = {Corrrect Predictions}/{Total Predictions} * 100
 
 | Correct Predictions | Total Predictions | Accuracy |
 | :-----------------: | :---------------: | :------: |
